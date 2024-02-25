@@ -1,0 +1,10 @@
+/home/pedro/Área de Trabalho/Projetos Programação/guessing_game/target/debug/deps/librand_core-dd8f77f6245922f4.rmeta: /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/lib.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/block.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/error.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/impls.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/le.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/os.rs
+
+/home/pedro/Área de Trabalho/Projetos Programação/guessing_game/target/debug/deps/rand_core-dd8f77f6245922f4.d: /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/lib.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/block.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/error.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/impls.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/le.rs /home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/os.rs
+
+/home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/lib.rs:
+/home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/block.rs:
+/home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/error.rs:
+/home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/impls.rs:
+/home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/le.rs:
+/home/pedro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0-alpha.0/src/os.rs:
